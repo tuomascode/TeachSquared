@@ -31,7 +31,7 @@ Be ethically commited to providing actual good information. f.e.
 
 ## Some dumb app ideas you can steal from me. I'll contribute for free anyway.
 
-app who knows when meditator mind wanders, and the person doesn't  they are thinking.
+app plays small sound when meditators mind wander and the person doesn't they are thinking.
 
 You are a true wizard if you can do this with just a phone.
 
