@@ -14,7 +14,7 @@ Gradually increase the number of concepts and their interelation to participants
 
 Program should be used in completely voluntary fashion, were the participant feels that whatever effort they make, is really paid in actual learning.
 
-Encourage positive learning experiences and the feeling of feeling reward by the learning.
+Encourage positive learning experiences and feeling rewarded by the learning.
 
 The subject should feel no pressure from the teaching material to do something in particular.
 
